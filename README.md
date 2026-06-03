@@ -14,7 +14,7 @@
 
 ## 1. Movies vs TV Shows
 
-![Movies vs TV Shows ](images/Movie_vs_TV.png)
+![Movies vs TV Shows ](Movie_vs_TV.png)
 
 **Analysis:**
 Movies are more common than Shows on Netflix.
@@ -23,7 +23,7 @@ Movies are more common than Shows on Netflix.
 
 ## 2. Top 10 Ckountries
  
-![Top 10 Countries](images/Top_10_Countries.png)
+![Top 10 Countries](Top_10_Countries.png)
 
 **Analysis:**
 USA has the highest number of Netflix title followed by India.
@@ -33,7 +33,7 @@ USA has the highest number of Netflix title followed by India.
 
 ## 3.Content Growth by Year
 
-![Content Growth](images/Content_Growth_by_year.png)
+![Content Growth](Content_Growth_by_year.png)
 
 **Analysis:**
 Netflix content increased rapidly between 2016 and 2019.
@@ -42,7 +42,7 @@ Netflix content increased rapidly between 2016 and 2019.
 
 ## 4.Most Common Ratins
 
-![Most common Ratings](images/Most_Common_Ratings.png)
+![Most common Ratings](Most_Common_Ratings.png)
 
 **Analysis:**
 TV-MA and TV-14 are the most common ratings , showing focus on mature audiences.
@@ -51,7 +51,7 @@ TV-MA and TV-14 are the most common ratings , showing focus on mature audiences.
 
 ## 5.Top 10 Genres
 
-![Top 10 Genres](images/Top_10_Netflix_Genres.png)
+![Top 10 Genres](Top_10_Netflix_Genres.png)
 
 **Analysis:**
 Drama and International Movies are the most popular genres.
@@ -60,7 +60,7 @@ Drama and International Movies are the most popular genres.
 
 ## 6.Top Netflix Directors
 
-![Top Directors](images/Top_Netflix_Directors.png)
+![Top Directors](Top_Netflix_Directors.png)
 
 **Anlysis:**
 Netflic content is created by many different directors, making the catelog diverse.
